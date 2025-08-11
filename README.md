@@ -1,4 +1,6 @@
 Rick and Morty Project
+
+
 Projeto desenvolvido em React com Vite para consumir a Rick and Morty API, exibindo informações sobre personagens, episódios e localizações da série.
 
 🚀 Tecnologias utilizadas
