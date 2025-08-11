@@ -31,11 +31,11 @@ Navegação entre páginas com React Router.
 
 Consumo de API com Axios.
 
-📈 Extra
-Paginação nas listagens de personagens, episódios e localizações (+2 pontos na avaliação).
 
 📷 Layout
 O design foi baseado no protótipo do Figma.
+
+https://www.figma.com/design/HqaxMspNeWLU7zYY3qRtWA/Rick-and-Morty-Project?node-id=0-1&m=dev&t=LwTSjsBr1ej9zhQN-1
 
 ▶️ Como executar
 bash
